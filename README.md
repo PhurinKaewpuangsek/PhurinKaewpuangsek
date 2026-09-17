@@ -27,9 +27,9 @@
 
 Computer Science undergraduate specializing in **Cloud Infrastructure and Serverless Architectures**. Rather than focusing solely on isolated application layers, I design and wire end-to-end distributed systems—focusing on event-driven execution, cloud cost optimization, and infrastructure automation.
 
-- **Cloud Focus:** <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:cloud.svg?color=white&width=16&height=16"><img src="https://api.iconify.design/lucide:cloud.svg?color=black&width=16&height=16" align="absmiddle"></picture> Serverless microservices (AWS Lambda), API Gateway topologies, and S3 event routing.
-- **Systems Core:** <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:terminal-square.svg?color=white&width=16&height=16"><img src="https://api.iconify.design/lucide:terminal-square.svg?color=black&width=16&height=16" align="absmiddle"></picture> Hands-on with Linux administration, virtualization, network protocols, and REST API design.
-- **Goal:** <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:target.svg?color=white&width=16&height=16"><img src="https://api.iconify.design/lucide:target.svg?color=black&width=16&height=16" align="absmiddle"></picture> Seeking an **AWS / Cloud Software Engineer Intern** or **Backend / DevOps Intern** role for 2026/2027.
+- **Cloud Focus <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:cloud.svg?color=white&width=16&height=16"><img src="https://api.iconify.design/lucide:cloud.svg?color=black&width=16&height=16" align="absmiddle"></picture> :** Serverless microservices (AWS Lambda), API Gateway topologies, and S3 event routing.
+- **Systems Core:** Hands-on with Linux administration, virtualization, network protocols, and REST API design.
+- **Goal:** Seeking an **AWS / Cloud Software Engineer Intern** or **Backend / DevOps Intern** role for 2026/2027.
 
 <br>
 
