@@ -92,27 +92,22 @@
     <!-- SUBTITLE — 3.20s kf 0.139, full at kf 0.150 -->
     <text x="22" y="253" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" opacity="0">Aspiring Cloud Software Engineer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.139;0.150;0.848;0.861;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
 
-    <!-- ITALIC line 1 — same timing as subtitle -->
-    <text x="22" y="272" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-style="italic" fill="#9AA5B4" opacity="0">Software engineering with a focus on cloud infrastructure,<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.139;0.150;0.848;0.861;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
-
-    <!-- ITALIC line 2 -->
-    <text x="22" y="288" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-style="italic" fill="#9AA5B4" opacity="0">CI/CD, automation, and continuous delivery.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.139;0.150;0.848;0.861;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
+    <!-- ITALIC line — same timing as subtitle -->
+    <text x="22" y="276" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-style="italic" fill="#9AA5B4" opacity="0">Software engineering with a focus on cloud infrastructure, CI/CD, automation, and continuous delivery.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.139;0.150;0.848;0.861;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
 
     <!-- 2ND PROMPT (no exit) — 3.70s kf 0.161, hides at kf 0.813 -->
-    <!-- y=318: ~30px below italic line 2 (y=288+30) -->
-    <text x="22" y="318" xml:space="preserve" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F0F0F0" opacity="0">[cloudshell-user@aws-us-east-1 ~]$ <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.161;0.162;0.813;0.814;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="22" y="306" xml:space="preserve" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F0F0F0" opacity="0">[cloudshell-user@aws-us-east-1 ~]$ <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.161;0.162;0.813;0.814;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
 
     <!-- IDLE CURSOR — blinks t=3.70s → t=18.70s (15 s)  kf 0.161 → 0.813 -->
-    <!-- y=304: cursor rect 14px above text baseline (318-14=304) -->
     <g opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.161;0.162;0.813;0.814;1" dur="23s" begin="0s" repeatCount="indefinite"/>
-      <rect x="358" y="304" width="9" height="17" fill="#F0F0F0">
+      <rect x="358" y="292" width="9" height="17" fill="#F0F0F0">
         <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="0.9s" begin="0s" repeatCount="indefinite"/>
       </rect>
     </g>
 
     <!-- EXIT LINE — 18.70s kf 0.813, fades with wipe kf 0.848 -->
-    <text x="22" y="318" xml:space="preserve" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F0F0F0" opacity="0">[cloudshell-user@aws-us-east-1 ~]$ exit<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.813;0.814;0.848;0.861;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="22" y="306" xml:space="preserve" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F0F0F0" opacity="0">[cloudshell-user@aws-us-east-1 ~]$ exit<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.813;0.814;0.848;0.861;1" dur="23s" begin="0s" repeatCount="indefinite"/></text>
 
   </g>
 </svg>
