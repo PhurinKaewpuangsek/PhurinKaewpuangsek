@@ -66,7 +66,10 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&stamp=20260917)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUgMHEtLjUgMC0uNS41djVsLjEuMy40LjJoMy40bDguMiAxNy43LjUuM2g1LjhxLjUgMCAuNi0uNXYtNXEwLS41LS42LS41aC0yTDEyLjcuM3EwLS4zLS41LS4zem0uNSAxSDEybDggMTcuOS40LjNoMS45VjIzaC01TDkuMiA1LjIgOC44IDVINS41Wm0yIDguM3EtLjMgMC0uNC4zTC42IDIzLjJ2LjVsLjUuM2g2LjJsLjUtLjMgMy4zLTcuMlYxNmwtMy02LjR6bTAgMS44IDIuNSA1LjItMyA2LjZIMloiLz48L3N2Zz4=)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&stamp=20260917)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&stamp=20260917)
 
-**Languages**  
+**Frontend & Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&stamp=20260917)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&stamp=20260917)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&stamp=20260917)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&stamp=20260917)
