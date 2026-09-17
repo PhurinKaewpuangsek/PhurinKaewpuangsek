@@ -5,9 +5,9 @@
 **Cloud & Serverless Architect · CS @ Thammasat University**  
 *Designing asynchronous, event-driven architectures and automated cloud platforms.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phurin-kaewpuangsek-2241173a5)
-[![AWS Academy Graduate](src/aws-cloud-foundations.png)](https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:privatekoom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&stamp=20260917)](https://linkedin.com/in/phurin-kaewpuangsek-2241173a5)
+[![AWS Academy Graduate](https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?logo=amazonaws&logoColor=white&stamp=20260917)](https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&stamp=20260917)](mailto:privatekoom@gmail.com)
 
 </div>
 
@@ -34,20 +34,46 @@ Computer Science undergraduate specializing in **Cloud Infrastructure and Server
 
 ---
 
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:award.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:award.svg?color=black&width=28&height=28" align="absmiddle"></picture> Certifications
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url" target="_blank">
+        <img src="src/aws-cloud-foundations.png" width="90" alt="AWS Cloud Foundations"/>
+      </a>
+    </td>
+    <td>
+      <strong>AWS Academy Graduate: Cloud Foundations</strong><br>
+      <em>Amazon Web Services (AWS)</em><br>
+      Validated knowledge of AWS Cloud concepts, core cloud services, security, architecture, pricing, and support. <br>
+      <a href="https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url" target="_blank">
+        <strong>Verify on Credly</strong>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:external-link.svg?color=white&width=16&height=16">
+          <img src="https://api.iconify.design/lucide:external-link.svg?color=black&width=16&height=16" align="absmiddle">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:blocks.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:blocks.svg?color=black&width=28&height=28" align="absmiddle"></picture> Technical Toolbox
 
 **Cloud, DevOps & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&stamp=20260917)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&stamp=20260917)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&stamp=20260917)
 
 **Backend & Serverless**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&stamp=20260917)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white&stamp=20260917)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&stamp=20260917)
 
 **Frontend & Languages**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&stamp=20260917)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&stamp=20260917)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&stamp=20260917)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&stamp=20260917)
