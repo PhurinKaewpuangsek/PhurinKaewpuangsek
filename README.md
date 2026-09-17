@@ -6,7 +6,7 @@
 *Designing asynchronous, event-driven architectures and automated cloud platforms.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phurin-kaewpuangsek-2241173a5)
-[![AWS Academy Graduate](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url)
+[![AWS Academy Graduate](src/aws-cloud-foundations.png)](https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:privatekoom@gmail.com)
 
 </div>
