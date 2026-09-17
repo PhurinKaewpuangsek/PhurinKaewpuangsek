@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Custom CloudShell-accurate terminal banner (colors sampled from the real console) -->
+<!-- Custom CloudShell-accurate terminal banner (height constrained to match profile picture) -->
 <a href="https://github.com/phurin">
-  <img src="src/cloudshell-banner.svg" alt="AWS CloudShell Terminal Banner" width="820" />
+  <img src="src/cloudshell-banner.svg" alt="AWS CloudShell Terminal Banner" height="260" />
 </a>
 
 <br>
