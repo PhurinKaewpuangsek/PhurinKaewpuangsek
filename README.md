@@ -34,15 +34,6 @@ Computer Science undergraduate specializing in **Cloud Infrastructure and Server
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:server.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:server.svg?color=black&width=28&height=28" align="absmiddle"></picture> Architectural Highlights
-
-| System | Role & Topology | Stack |
-| :--- | :--- | :--- |
-| **[ValidMate](https://github.com/duckxy166/CS332-CS232-CLOWN)** | **System Architect & Standards Lead**<br>Asynchronous, event-driven serverless pipeline automating lab verification via distributed Lambda microservices and AI OCR inspection. | AWS Lambda, S3, API Gateway, Node.js |
-| **[Smart Faculty Navigator](https://github.com/PhurinKaewpuangsek/CS333-CS361-Smart-Faculty-Navigator)** | **Software-Defined Indoor Navigation**<br>Deterministic QR anchor routing engine replacing sensor drift with low-overhead graph traversal. | TypeScript, React, Algorithms |
-
----
-
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:blocks.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:blocks.svg?color=black&width=28&height=28" align="absmiddle"></picture> Technical Toolbox
 
 **Cloud, DevOps & Infrastructure**  
@@ -60,15 +51,3 @@ Computer Science undergraduate specializing in **Cloud Infrastructure and Server
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:bar-chart-3.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=black&width=28&height=28" align="absmiddle"></picture> GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PhurinKaewpuangsek&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PhurinKaewpuangsek&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&text_color=24292F&icon_color=0969DA">
-    <img src="https://github-readme-stats.vercel.app/api?username=PhurinKaewpuangsek&show_icons=true&theme=transparent&hide_border=true" alt="Phurin's GitHub Stats" />
-  </picture>
-</div>
