@@ -1,36 +1,33 @@
 <div align="center">
 
+<!-- Authentic AWS CloudShell Terminal Banner -->
+<a href="https://github.com/phurin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1500&color=38BDF8&background=161F2C&center=false&vCenter=true&width=800&height=95&lines=%5Bcloudshell-user%40aws-us-east-1+~%5D%24+whoami;Phurin+Kaewpuangsek+%E2%80%94+Aspiring+Cloud+%26+Serverless+Architect;%5Bcloudshell-user%40aws-us-east-1+~%5D%24+cat+.%2Ffocus.txt;Serverless+(Lambda%2C+API+GW%2C+S3)+%C2%B7+Linux+admin+%C2%B7+CI%2FCD;%5Bcloudshell-user%40aws-us-east-1+~%5D%24+npm+run+deploy-infrastructure..." alt="AWS CloudShell Terminal Banner" />
+</a>
+
+<br><br>
+
 # Phurin Kaewpuangsek
 
-**Cloud & Serverless Architect · CS @ Thammasat University**  
-*Designing asynchronous, event-driven architectures and automated cloud platforms.*
+<sub>**Aspiring Cloud & Serverless Architect · CS @ Thammasat University**</sub><br>
+<sub>*Designing asynchronous, event-driven architectures and automated cloud platforms.*</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/phurin-kaewpuangsek-2241173a5)
-[![AWS Academy Graduate](https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuOCAxMHYuN2wuMy42di40bC0uNi40aC0uNGwtLjMtLjQtLjMtLjVhMyAzIDAgMCAxLTIuMyAxcS0xIDAtMS42LS41YTIgMiAwIDAgMS0uNi0xLjVxMC0xIC43LTEuNy44LS42IDItLjZsMS43LjN2LS42cTAtLjktLjMtMS4zLS40LS40LTEuMy0uNGwtLjkuMS0uOS4zLS4yLjFoLS4ybC0uMS0uMnYtLjdsLjItLjEgMS0uNEw0IDQuOHExLjQgMCAyIC43LjcuNS43IDJ6bS0zLjMgMS4yaC44bC44LS42LjMtLjVWOWwtLjctLjJINHEtLjkgMC0xLjIuMy0uNC4zLS40IDEgMCAuNS4zLjh0LjguM202LjQgMS0uMy0uMi0uMS0uMy0yLTYuMXYtLjRxMC0uMi4yLS4yaC44bC4zLjEuMi4zIDEuMyA1LjMgMS4yLTUuMy4yLS4zSDEzbC4xLjMgMS4zIDUuNCAxLjQtNS40LjEtLjNIMTdsLjIuMXYuNGwtMiA2LjFxMCAuMy0uMi4zbC0uMy4xaC0xbC0uMS0uNC0xLjMtNS4xLTEuMiA1LjFxMCAuMy0uMi4zbC0uMy4xem0xMC4zLjFBNSA1IDAgMCAxIDE4IDEybC0uMi0uM1YxMWwuMS0uMmguNGE0IDQgMCAwIDAgMS44LjRxLjcgMCAxLjItLjJhMSAxIDAgMCAwIC40LS44bC0uMi0uNS0uOC0uNS0xLjItLjNxLS45LS4zLTEuMy0uOGEyIDIgMCAwIDEtLjQtMS4yTDE4IDZsLjYtLjYuOC0uNCAxLjYtLjFoLjVsLjguMy4yLjIuMS4zVjZxMCAuMi0uMi4yaC0uM2wtMS41LS40LTEgLjJxLS40LjMtLjQuN3QuMi42cS4yLjMuOS40bDEuMS40cS45LjMgMS4yLjguNC41LjQgMXQtLjIgMS0uNi43cS0uMy4zLS45LjV6bTEuNSA0QTE3LjYgMTcuNiAwIDAgMSAuMSAxNC42cS0uMi0uNi4zLS40YTI0IDI0IDAgMCAwIDIxIDEuM2MuNC0uMi43LjMuMy42bTEtMS4zYy0uMi0uNS0yLjEtLjItMy0uMXEtLjQgMCAwLS40YzEuNS0xIDQtLjggNC4yLS40czAgMi44LTEuNSA0cS0uNC4yLS4zLS4xYy4zLS44IDEtMi42LjctMyIvPjwvc3ZnPg%3D%3D)](https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&stamp=20260917)](mailto:privatekoom@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/phurin-kaewpuangsek-2241173a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/badges/f28744de-ae73-4800-bfaa-774e366cb509/public_url"><img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYuOCAxMHYuN2wuMy42di40bC0uNi40aC0uNGwtLjMtLjQtLjMtLjVhMyAzIDAgMCAxLTIuMyAxcS0xIDAtMS42LS41YTIgMiAwIDAgMS0uNi0xLjVxMC0xIC43LTEuNy44LS42IDItLjZsMS43LjN2LS42cTAtLjktLjMtMS4zLS40LS40LTEuMy0uNGwtLjkuMS0uOS4zLS4yLjFoLS4ybC0uMS0uMnYtLjdsLjItLjEgMS0uNEw0IDQuOHExLjQgMCAyIC43LjcuNS43IDJ6bS0zLjMgMS4yaC44bC44LS42LjMtLjVWOWwtLjctLjJINHEtLjkgMC0xLjIuMy0uNC4zLS40IDEgMCAuNS4zLjh0LjguM202LjQgMS0uMy0uMi0uMS0uMy0yLTYuMXYtLjRxMC0uMi4yLS4yaC44bC4zLjEuMi4zIDEuMyA1LjMgMS4yLTUuMy4yLS4zSDEzbC4xLjMgMS4zIDUuNCAxLjQtNS40LjEtLjNIMTdsLjIuMXYuNGwtMiA2LjFxMCAuMy0uMi4zbC0uMy4xaC0xbC0uMS0uNC0xLjMtNS4xLTEuMiA1LjFxMCAuMy0uMi4zbC0uMy4xem0xMC4zLjFBNSA1IDAgMCAxIDE4IDEybC0uMi0uM1YxMWwuMS0uMmguNGE0IDQgMCAwIDAgMS44LjRxLjcgMCAxLjItLjJhMSAxIDAgMCAwIC40LS44bC0uMi0uNS0uOC0uNS0xLjItLjNxLS45LS4zLTEuMy0uOGEyIDIgMCAwIDEtLjQtMS4yTDE4IDZsLjYtLjYuOC0uNCAxLjYtLjFoLjVsLjguMy4yLjIuMS4zVjZxMCAuMi0uMi4yaC0uM2wtMS41LS40LTEgLjJxLS40LjMtLjQuN3QuMi42cS4yLjMuOS40bDEuMS40cS45LjMgMS4yLjguNC41LjQgMXQtLjIgMS0uNi43cS0uMy4zLS45LjV6bTEuNSA0QTE3LjYgMTcuNiAwIDAgMSAuMSAxNC42cS0uMi0uNi4zLS40YTI0IDI0IDAgMCAwIDIxIDEuM2MuNC0uMi43LjMuMy42bTEtMS4zYy0uMi0uNS0yLjEtLjItMy0uMXEtLjQgMCAwLS40YzEuNS0xIDQtLjggNC4yLS40czAgMi44LTEuNSA0cS0uNC4yLS4zLS4xYy4zLS44IDEtMi42LjctMyIvPjwvc3ZnPg%3D%3D" alt="AWS Cert"></a>
+  <a href="mailto:privatekoom@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:contact.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:contact.svg?color=black&width=28&height=28" align="absmiddle"></picture> About Me
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:server.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:server.svg?color=black&width=28&height=28" align="absmiddle"></picture> Highlighted Engineering
 
-Computer Science undergraduate specializing in **Cloud Infrastructure and Serverless Architectures**. Rather than focusing solely on isolated application layers, I design and wire end-to-end distributed systems—focusing on event-driven execution, cloud cost optimization, and infrastructure automation.
-
-<table>
-  <tr>
-    <td align="center" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:cloud.svg?color=white&width=20&height=20"><img src="https://api.iconify.design/lucide:cloud.svg?color=black&width=20&height=20"></picture></td>
-    <td><strong>Cloud Focus:</strong> Serverless microservices (AWS Lambda), API Gateway topologies, and S3 event routing.</td>
-  </tr>
-  <tr>
-    <td align="center" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:terminal-square.svg?color=white&width=20&height=20"><img src="https://api.iconify.design/lucide:terminal-square.svg?color=black&width=20&height=20"></picture></td>
-    <td><strong>Systems Core:</strong> Hands-on with Linux administration, virtualization, network protocols, and REST API design.</td>
-  </tr>
-  <tr>
-    <td align="center" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:target.svg?color=white&width=20&height=20"><img src="https://api.iconify.design/lucide:target.svg?color=black&width=20&height=20"></picture></td>
-    <td><strong>Goal:</strong> Seeking an <strong>AWS / Cloud Engineer Intern</strong> or <strong>Backend / DevOps Intern</strong> role for 2026/2027.</td>
-  </tr>
-</table>
+| System | Architecture & Infrastructure Focus | Stack |
+| :--- | :--- | :--- |
+| **[ValidMate](https://github.com/PhurinKaewpuangsek/validmate-core)** | **Event-Driven Verification:** Architected an asynchronous backend pipeline integrating SQS, Textract, and DynamoDB for automated processing. | AWS Lambda, API Gateway, S3, Node.js |
+| **[Smart Faculty Navigator](https://github.com/PhurinKaewpuangsek/smart-faculty-navigator)** | **Automated Deployment Pipeline:** Engineered a dynamic CI/CD script that directly extracts API URLs and S3 Bucket Names from CloudFormation stack outputs during the frontend build process. | TypeScript, GitHub Actions, AWS |
 
 ---
 
@@ -63,17 +60,15 @@ Computer Science undergraduate specializing in **Cloud Infrastructure and Server
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:blocks.svg?color=white&width=28&height=28"><img src="https://api.iconify.design/lucide:blocks.svg?color=black&width=28&height=28" align="absmiddle"></picture> Technical Toolbox
 
 **Cloud, DevOps & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYuOCAxMHYuN2wuMy42di40bC0uNi40aC0uNGwtLjMtLjQtLjMtLjVhMyAzIDAgMCAxLTIuMyAxcS0xIDAtMS42LS41YTIgMiAwIDAgMS0uNi0xLjVxMC0xIC43LTEuNy44LS42IDItLjZsMS43LjN2LS42cTAtLjktLjMtMS4zLS40LS40LTEuMy0uNGwtLjkuMS0uOS4zLS4yLjFoLS4ybC0uMS0uMnYtLjdsLjItLjEgMS0uNEw0IDQuOHExLjQgMCAyIC43LjcuNS43IDJ6bS0zLjMgMS4yaC44bC44LS42LjMtLjVWOWwtLjctLjJINHEtLjkgMC0xLjIuMy0uNC4zLS40IDEgMCAuNS4zLjh0LjguM202LjQgMS0uMy0uMi0uMS0uMy0yLTYuMXYtLjRxMC0uMi4yLS4yaC44bC4zLjEuMi4zIDEuMyA1LjMgMS4yLTUuMy4yLS4zSDEzbC4xLjMgMS4zIDUuNCAxLjQtNS40LjEtLjNIMTdsLjIuMXYuNGwtMiA2LjFxMCAuMy0uMi4zbC0uMy4xaC0xbC0uMS0uNC0xLjMtNS4xLTEuMiA1LjFxMCAuMy0uMi4zbC0uMy4xem0xMC4zLjFBNSA1IDAgMCAxIDE4IDEybC0uMi0uM1YxMWwuMS0uMmguNGE0IDQgMCAwIDAgMS44LjRxLjcgMCAxLjItLjJhMSAxIDAgMCAwIC40LS44bC0uMi0uNS0uOC0uNS0xLjItLjNxLS45LS4zLTEuMy0uOGEyIDIgMCAwIDEtLjQtMS4yTDE4IDZsLjYtLjYuOC0uNCAxLjYtLjFoLjVsLjguMy4yLjIuMS4zVjZxMCAuMi0uMi4yaC0uM2wtMS41LS40LTEgLjJxLS40LjMtLjQuN3QuMi42cS4yLjMuOS40bDEuMS40cS45LjMgMS4yLjguNC41LjQgMXQtLjIgMS0uNi43cS0uMy4zLS45LjV6bTEuNSA0QTE3LjYgMTcuNiAwIDAgMSAuMSAxNC42cS0uMi0uNi4zLS40YTI0IDI0IDAgMCAwIDIxIDEuM2MuNC0uMi43LjMuMy42bTEtMS4zYy0uMi0uNS0yLjEtLjItMy0uMXEtLjQgMCAwLS40YzEuNS0xIDQtLjggNC4yLS40czAgMi44LTEuNSA0cS0uNC4yLS4zLS4xYy4zLS44IDEtMi42LjctMyIvPjwvc3ZnPg%3D%3D)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYuOCAxMHYuN2wuMy42di40bC0uNi40aC0uNGwtLjMtLjQtLjMtLjVhMyAzIDAgMCAxLTIuMyAxcS0xIDAtMS42LS41YTIgMiAwIDAgMS0uNi0xLjVxMC0xIC43LTEuNy44LS42IDItLjZsMS43LjN2LS42cTAtLjktLjMtMS4zLS40LS40LTEuMy0uNGwtLjkuMS0uOS4zLS4yLjFoLS4ybC0uMS0uMnYtLjdsLjItLjEgMS0uNEw0IDQuOHExLjQgMCAyIC43LjcuNS43IDJ6bS0zLjMgMS4yaC44bC44LS42LjMtLjVWOWwtLjctLjJINHEtLjkgMC0xLjIuMy0uNC4zLS40IDEgMCAuNS4zLjh0LjguM202LjQgMS0uMy0uMi0uMS0uMy0yLTYuMXYtLjRxMC0uMi4yLS4yaC44bC4zLjEuMi4zIDEuMyA1LjMgMS4yLTUuMy4yLS4zSDEzbC4xLjMgMS4zIDUuNCAxLjQtNS40LjEtLjNIMTdsLjIuMXYuNGwtMiA2LjFxMCAuMy0uMi4zbC0uMy4xaC0xbC0uMS0uNC0xLjMtNS4xLTEuMiA1LjFxMCAuMy0uMi4zbC0uMy4xem0xMC4zLjFBNSA1IDAgMCAxIDE4IDEybC0uMi0uM1YxMWwuMS0uMmguNGE0IDQgMCAwIDAgMS44LjRxLjcgMCAxLjItLjJhMSAxIDAgMCAwIC40LS44bC0uMi0uNS0uOC0uNS0xLjItLjNxLS45LS4zLTEuMy0uOGEyIDIgMCAwIDEtLjQtMS4yTDE4IDZsLjYtLjYuOC0uNCAxLjYtLjFoLjVsLjguMy4yLjIuMS4zVjZxMCAuMi0uMi4yaC0uM2wtMS41LS40LTEgLjJxLS40LjMtLjQuN3QuMi42cS4yLjMuOS40bDEuMS40cS45LjMgMS4yLjguNC41LjQgMXQtLjIgMS0uNi43cS0uMy4zLS45LjV6bTEuNSA0QTE3LjYgMTcuNiAwIDAgMSAuMSAxNC42cS0uMi0uNi4zLS40YTI0IDI0IDAgMCAwIDIxIDEuM2MuNC0uMi43LjMuMy42bTEtMS4zYy0uMi0uNS0yLjEtLjItMy0uMXEtLjQgMCAwLS40YzEuNS0xIDQtLjggNC4yLS40czAgMi44LTEuNSA0cS0uNC4yLS4zLS4xYy4zLS44IDEtMi42LjctMyIvPjwvc3ZnPg==)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&stamp=20260917)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&stamp=20260917)
 
 **Backend & Serverless**  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&stamp=20260917)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgMHEtLjUgMC0uNS41djVsLjEuMy40LjJoMy40bDguMiAxNy43LjUuM2g1LjhxLjUgMCAuNi0uNXYtNXEwLS41LS42LS41aC0yTDEyLjcuM3EwLS4zLS41LS4zem0uNSAxSDEybDggMTcuOS40LjNoMS45VjIzaC01TDkuMiA1LjIgOC44IDVINS41Wm0yIDguM3EtLjMgMC0uNC4zTC42IDIzLjJ2LjVsLjUuM2g2LjJsLjUtLjMgMy4zLTcuMlYxNmwtMy02LjR6bTAgMS44IDIuNSA1LjItMyA2LjZIMloiLz48L3N2Zz4%3D)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&stamp=20260917)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUgMHEtLjUgMC0uNS41djVsLjEuMy40LjJoMy40bDguMiAxNy43LjUuM2g1LjhxLjUgMCAuNi0uNXYtNXEwLS41LS42LS41aC0yTDEyLjcuM3EwLS4zLS41LS4zem0uNSAxSDEybDggMTcuOS40LjNoMS45VjIzaC01TDkuMiA1LjIgOC44IDVINS41Wm0yIDguM3EtLjMgMC0uNC4zTC42IDIzLjJ2LjVsLjUuM2g2LjJsLjUtLjMgMy4zLTcuMlYxNmwtMy02LjR6bTAgMS44IDIuNSA1LjItMyA2LjZIMloiLz48L3N2Zz4=)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&stamp=20260917)
 
-**Frontend & Languages**  
+**Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&stamp=20260917)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&stamp=20260917)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&stamp=20260917)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&stamp=20260917)
